@@ -17,7 +17,7 @@ The Requests library is used for sending HTTP requests in Python. It simplifies 
 BeautifulSoup is a Python library for parsing HTML and XML documents. It provides methods to extract data from parsed documents using various techniques, such as searching by tags, attributes, or CSS selectors. BeautifulSoup helps in navigating and manipulating the HTML structure of web pages.
 
 # Data Cleaning:
-Data cleaning, also known as data cleansing or data scrubbing, refers to the process of identifying and correcting or removing errors, inconsistencies, and inaccuracies in datasets. 
+Data cleaning, also known as data cleansing or data scrubbing, refers to the process of identifying and correcting or removing errors, inconsistencies, and inaccuracies in datasets. It involves transforming raw data into a clean and reliable format suitable for analysis or other data-driven tasks. 
 
 # Data 1:- Amazon Women dresses:
 This project is all about the Women's Dresses data, extracted from the Amazon website. The data is extracted by using the BeutifulSoup Python library.
