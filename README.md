@@ -1,4 +1,6 @@
-# Web-Scrapping: safskfj
+-----> First Scraped the data from the different sites, and cleaned it.<-----
+
+# Web-Scrapping: 
 Web scraping is an automatic method to obtain large amounts of data from websites. Most of this data is unstructured data in an HTML format which is then converted into structured data in a spreadsheet or a database so that it can be used in various applications.
 
 ## Web scraping can be useful for a variety of purposes, including:
@@ -13,6 +15,9 @@ The Requests library is used for sending HTTP requests in Python. It simplifies 
 
 ### 2. BeautifulSoup: 
 BeautifulSoup is a Python library for parsing HTML and XML documents. It provides methods to extract data from parsed documents using various techniques, such as searching by tags, attributes, or CSS selectors. BeautifulSoup helps in navigating and manipulating the HTML structure of web pages.
+
+# Data Cleaning:
+Data cleaning, also known as data cleansing or data scrubbing, refers to the process of identifying and correcting or removing errors, inconsistencies, and inaccuracies in datasets. 
 
 # Data 1:- Amazon Women dresses:
 This project is all about the Women's Dresses data, extracted from the Amazon website. The data is extracted by using the BeutifulSoup Python library.
