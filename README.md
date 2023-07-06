@@ -1,6 +1,6 @@
 -----> First Scraped the data from the different sites, and cleaned it, and done some visualization.<-----
 
-# Web-Scrapping: 
+# Web-Scraping: 
 Web scraping is an automatic method to obtain large amounts of data from websites. Most of this data is unstructured data in an HTML format which is then converted into structured data in a spreadsheet or a database so that it can be used in various applications.
 
 ## Web scraping can be useful for a variety of purposes, including:
@@ -9,7 +9,7 @@ Web scraping is an automatic method to obtain large amounts of data from website
 3. Content extraction: Extracting specific information from websites, such as contact details, reviews, or job postings.
 4. Machine learning training data: Gathering data to train machine learning models, such as collecting images or text from various sources.
 
-## Libraries used for Web Scrapping are:
+## Libraries used for Web Scraping are:
 ### 1. Requests:
 The Requests library is used for sending HTTP requests in Python. It simplifies the process of making GET and POST requests to a web server and receiving responses. It allows you to download the HTML content of web pages.
 
