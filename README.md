@@ -25,6 +25,8 @@ This project is all about the Women's Dresses data, extracted from the Amazon we
 ## Data 2:- Swiggy Restaurants Data (Bangalore):
 In this extensive project, I successfully scraped a diverse dataset comprising around 1,300 Bangalore restaurant entries, encompassing crucial information like restaurant names, ratings, cuisine types, locations, delivery review numbers, and corresponding URLs. This valuable collection lays the foundation for in-depth analysis and exploration of Bangalore's vibrant culinary landscape.
 
+## Data 3:- Internet Movie Database (IMDb):
+Scraped a comprehensive dataset featuring IMDb's top 250 movies. This collection encompasses vital details like movie titles, durations, ratings, IMDb ratings, release years, and convenient links for each entry.
 
 
 
