@@ -3,6 +3,10 @@
 # **:Web-Scraping:** 
 Web scraping is an automatic method to obtain large amounts of data from websites. Most of this data is unstructured data in an HTML format which is then converted into structured data in a spreadsheet or a database so that it can be used in various applications.
 
+<div id="header" align="center">
+    <img src="https://github.com/yasmeenustad/Web-Scraping/assets/112754746/da82a879-c3f7-406f-8ba1-65924df7094a"  height="350" width="800"/>
+</div>
+
 ## Web scraping can be useful for a variety of purposes, including:
 1. Data aggregation: Gathering data from multiple sources for analysis, such as news articles, product prices, or social media posts.
 2. Research and monitoring: Collecting data for academic or market research, tracking prices of products or services, or monitoring changes on websites.
