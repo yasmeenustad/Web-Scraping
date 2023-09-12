@@ -26,6 +26,10 @@ Data cleaning, also known as data cleansing or data scrubbing, refers to the pro
 ## Data 1:- Amazon Women dresses:
 This project is all about the Women's Dresses data, extracted from the Amazon website. The data is extracted by using the BeutifulSoup Python library. The scraped things are Name, Price, Rating, and Link of the particular product. And after scrapping the data, done the data cleaning.
 
+<div id="header" align="center">
+   <img src="https://github.com/yasmeenustad/Web-Scraping/assets/112754746/7fce33e0-169c-453f-be6c-25f2d5a12875"  height="500" width="1000"/>
+</div>
+
 ## Data 2:- Swiggy Restaurants Data (Bangalore):
 In this extensive project, successfully scraped a diverse dataset comprising around 1,300 Bangalore restaurant entries, encompassing crucial information like restaurant names, ratings, cuisine types, locations, delivery review numbers, and corresponding URLs. This valuable collection lays the foundation for in-depth analysis and exploration of Bangalore's vibrant culinary landscape.
 
