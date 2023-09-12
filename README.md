@@ -29,13 +29,16 @@ This project is all about the Women's Dresses data, extracted from the Amazon we
 ## Data 2:- Swiggy Restaurants Data (Bangalore):
 In this extensive project, successfully scraped a diverse dataset comprising around 1,300 Bangalore restaurant entries, encompassing crucial information like restaurant names, ratings, cuisine types, locations, delivery review numbers, and corresponding URLs. This valuable collection lays the foundation for in-depth analysis and exploration of Bangalore's vibrant culinary landscape.
 
-![Screenshot_20230912_115244](https://github.com/yasmeenustad/Web-Scraping/assets/112754746/ab46d12a-ae3a-42ba-85ab-fc9f57388f86)
-
+<div id="header" align="center">
+   <img src="https://github.com/yasmeenustad/Web-Scraping/assets/112754746/ab46d12a-ae3a-42ba-85ab-fc9f57388f86"  height="500" width="1000"/>
+</div>
 
 ## Data 3:- Internet Movie Database (IMDb):
 Utilizing the Beautiful Soup library, meticulously scraped and compiled a dataset showcasing IMDb's top 250 movies. This dataset encompasses critical details including movie titles, durations, ratings, IMDb ratings, release years, and convenient links for each movie.
 
-
+<div id="header" align="center">
+   <img src="https://github.com/yasmeenustad/Web-Scraping/assets/112754746/94755b32-f5a1-4380-9848-06dd5c686d14"  height="500" width="1000"/>
+</div>
 
 
 
