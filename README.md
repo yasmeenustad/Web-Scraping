@@ -57,6 +57,10 @@ Utilizing the Beautiful Soup library, meticulously scraped and compiled a datase
 ## Data 4:- Flipkart Mobiles Data:
 Utilized the Beautiful Soup library to scrape data from around 400 mobile phones on the Flipkart website. The dataset includes variables such as mobile name, MRP, price, ratings, links, reviews, and the number of ratings.
 
+<div id="header" align="center">
+   <img src="https://github.com/yasmeenustad/Web-Scraping/assets/112754746/21c66845-7e9a-4b64-9616-1f37dd070138"  height="500" width="1000"/>
+</div>
+
 ## <img src="https://github.com/yasmeenustad/Swiggy-data-Analysis/assets/112754746/603ad77e-2212-4b07-a75a-ffcabb0538f4" width="70" height="50"> Challenges:
 
 - **Website Changes:**
